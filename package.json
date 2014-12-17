@@ -1,0 +1,19 @@
+{
+  "name": "the-swfobject",
+  "version": "1.0.0",
+  "description": "SWFObject is a free, open-source tool for embedding swf content in websites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/playmedia/swfobject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/playmedia/swfobject/issues"
+  },
+  "homepage": "https://github.com/playmedia/swfobject"
+}
