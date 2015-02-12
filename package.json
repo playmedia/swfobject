@@ -1,6 +1,6 @@
 {
   "name": "the-swfobject",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SWFObject is a free, open-source tool for embedding swf content in websites.",
   "main": "index.js",
   "scripts": {
