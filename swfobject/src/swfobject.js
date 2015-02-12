@@ -816,3 +816,5 @@ var swfobject = function () {
 
     };
 }();
+
+module.exports = swfobject

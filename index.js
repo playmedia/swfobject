@@ -1,1 +1,1 @@
-module.exports = require('./swfobject/swfobject')
+module.exports = require('./swfobject/src/swfobject')
